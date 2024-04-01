@@ -1,5 +1,5 @@
 <h1 align="center">UTCTF WRITEUPS</h1>
-<h3> This repository Contain my own solutions for UTCTF challenges </h3>
+<h3 align="center"> This repository Contain my own solutions for UTCTF challenges </h3>
 
 <!-- 
 <h3 align="center">CS student and a passionate web developer</h3> -->
