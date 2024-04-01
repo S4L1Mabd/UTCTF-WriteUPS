@@ -5,10 +5,10 @@
 <h3 align="center">CS student and a passionate web developer</h3> -->
 
 <!--   my-ticker -->    
-<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00FA9A&center=true&vCenter=true&width=600&lines=UTCTF+2K24"")](https://git.io/typing-svg) -->
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FA9A&center=true&vCenter=true&width=600&lines=UTCTF+2K24"")](https://git.io/typing-svg) -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%00FA9A&center=true&vCenter=true&width=600&lines=UTCTF+2K24" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%FA9A&center=true&vCenter=true&width=600&lines=UTCTF+2K24" alt="Typing SVG">
   </a>
 </p>
